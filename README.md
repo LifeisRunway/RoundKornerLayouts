@@ -1,4 +1,5 @@
 Round Korner Layouts [ ![Download](https://api.bintray.com/packages/jcminarro/maven/RoundKornerLayouts/images/download.svg) ](https://bintray.com/jcminarro/maven/RoundKornerLayouts/_latestVersion)
+[![](https://jitpack.io/v/LifeisRunway/RoundKornerLayouts.svg)](https://jitpack.io/#LifeisRunway/RoundKornerLayouts)
 ===============
 
 Round Korner Layouts is an Android library create to build a layout with the round corners
